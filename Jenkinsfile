@@ -48,4 +48,4 @@ node('slave1'){
         echo "Not implemented"
     }
 }
-}
+
